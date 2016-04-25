@@ -1,0 +1,138 @@
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 2.863 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.305 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.304 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.117 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.096 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.096 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 4.784 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.284 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.34 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.539 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.465 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.329 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.549 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.543 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.461 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.325 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.327 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.337 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.326 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.54 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.549 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.539 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.545 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.482 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.332 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.787 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 5.88 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.514 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.802 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.831 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.805 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.81 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.803 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.896 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 7.262 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 9.046 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 5.919 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 5.852 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 5.722 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 2.113 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 5.545 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.78 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.023 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.678 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.937 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.888 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.216 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.347 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 2.758 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 11.023 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.266 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.202 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.203 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 2.227 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.771 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 2.871 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.045 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.51 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.548 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 3.818 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 1.421 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.537 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.533 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.382 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 16.912 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 2.936 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.743 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.263 seconds
+Tree depth: 20, triangle count threshold: 50
+Scene is rendered in 0.748 seconds
